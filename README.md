@@ -102,7 +102,6 @@ IR technology is used in a wide range of wireless applications which includes re
 ## STM 32 CUBE PROGRAM
 
 ```
-```c
 #include "main.h"
 
 #include <stdio.h>
@@ -210,7 +209,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 
 #endif
-```
 
 ```
 
