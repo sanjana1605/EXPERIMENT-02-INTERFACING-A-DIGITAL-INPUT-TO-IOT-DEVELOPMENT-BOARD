@@ -1,9 +1,9 @@
-# EXPERIMENT-02-INTERFACING-A-DIGITAL-INPUT-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
+# EXPERIMENT-02 INTERFACING A DIGITAL INPUT-OUTPUT TO IOT DEVELOPMENT BOARD
 
 
 **DATE:** 14-08-2026
 
-**NAME:** SANJANA SRI N
+**NAME:** Sanjana Sri N
 
 **ROLL NO:** 2305003007
 
@@ -331,10 +331,16 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## OUTPUT
 
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/318cfea4-2dba-40aa-87ac-f0226ca57ed9" />
+### Object Detected:
+
+<img width="791" height="413" alt="objdetected" src="https://github.com/user-attachments/assets/f34dda71-34f2-47fc-9e10-af5782c2ade9" />
 
 
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/7b706aa8-4c73-4935-800c-2fa0089f780b" />
+### Object Not Detected:
+
+<img width="711" height="449" alt="not det" src="https://github.com/user-attachments/assets/2058c653-c88c-4260-85c4-7cd08828fc0f" />
+
+
 
 
 ## RESULT
